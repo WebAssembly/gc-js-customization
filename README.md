@@ -1,15 +1,14 @@
-![Build Status](https://github.com/WebAssembly/gc/actions/workflows/main.yml/badge.svg)
+![Build Status](https://github.com/WebAssembly/gc-js-customization/actions/workflows/main.yml/badge.svg)
 
-# GC Proposal for WebAssembly
+# JS Customization for WebAssembly GC Objects
 
-This repository is a clone of [github.com/WebAssembly/spec/](https://github.com/WebAssembly/spec/).
-It is meant for discussion, prototype specification and implementation of a proposal to add garbage collection (GC) support to WebAssembly.
+This repository is a clone of
+[github.com/WebAssembly/gc/](https://github.com/WebAssembly/gc/). It is meant
+for discussion, prototype specification and implementation of a proposal to add
+a JS API to increase the ergonomics of accessing WebAssembly GC objects by
+attaching custom accessors and prototypes to them.
 
-* See the [overview](proposals/gc/Overview.md) for a summary and rationale of the proposal.
-
-* See the [MVP](proposals/gc/MVP.md) for a draft specification of the concrete language extensions that are proposed for the first stage of GC support in Wasm.
-
-* See the [Post-MVP](proposals/gc/Post-MVP.md) for possible future extensions in later stages.
+* See the [overview](proposals/gc-js-customization/Overview.md) for a summary and rationale of the proposal.
 
 <!--
 * See the [modified spec](https://webassembly.github.io/gc/core) for details.
