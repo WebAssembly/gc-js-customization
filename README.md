@@ -11,12 +11,12 @@ attaching custom accessors and prototypes to them.
 * See the [overview](proposals/gc-js-customization/Overview.md) for a summary and rationale of the proposal.
 
 <!--
-* See the [modified spec](https://webassembly.github.io/gc/core) for details.
+* See the [modified spec](https://webassembly.github.io/gc-js-customization/core) for details.
 -->
 
-This repository is based on the [function references proposal](proposals/function-references/Overview.md) as a baseline and includes all respective changes.
+This repository is based on the [GC proposal](https://github.com/WebAssembly/gc) as a baseline.
 
-Original `README` from upstream repository follows...
+Original `README` from the upstream spec repository follows...
 
 # spec
 
