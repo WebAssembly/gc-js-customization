@@ -9,10 +9,7 @@ a JS API to increase the ergonomics of accessing WebAssembly GC objects by
 attaching custom accessors and prototypes to them.
 
 * See the [overview](proposals/gc-js-customization/Overview.md) for a summary and rationale of the proposal.
-
-<!--
-* See the [modified spec](https://webassembly.github.io/gc-js-customization/core) for details.
--->
+* See the [modified spec](https://webassembly.github.io/gc-js-customization/) for details.
 
 This repository is based on the [GC proposal](https://github.com/WebAssembly/gc) as a baseline.
 
